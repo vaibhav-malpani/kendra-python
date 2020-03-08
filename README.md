@@ -1,7 +1,7 @@
 # kendra-python
 This is a simple flask application that can help you build a web server and connect with Amazon Kendra hosted on AWS.
 
-#Steps to get started with AWS kendra
+# Steps to get started with AWS kendra
 
 1. Follow this blog to build you first dataset --> https://medium.com/vaibhav-malpanis-blog/build-your-custom-search-engine-using-machine-learning-amazon-kendra-d7832411c6ad
 2. Copy the index_id from AWS console and paste it in kendra.py file.
