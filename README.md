@@ -1,4 +1,4 @@
-# kendra-python
+# Kendra Python
 This is a simple flask application that can help you build a web server and connect with Amazon Kendra hosted on AWS.
 
 # Steps to get started with AWS kendra
