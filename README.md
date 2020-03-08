@@ -13,5 +13,5 @@ To test the code run the below mentioned curl command:
 curl --location --request POST 'localhost:5000/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-	"query": "<your query>"
+	"query": "<<your query>>"
 }'
